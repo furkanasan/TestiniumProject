@@ -43,7 +43,6 @@ public class Test_To_LC_Waikiki_Page extends BaseTest{
     }
     @Test
     @Order(3)//Bu aşamada geriye kalan işlemler yapılıyor.
-    //Her aşamayı ayrı ayrı metodlar halinde yapacaktım fakat ayrı metodlar yazdığım zaman anlamadığım bir şekilde hata veriyor.
     public void nextPage() {
 
         //Sayfa sonuna scroll olur ve Daha fazla ürün gör butonuna tıklar.
